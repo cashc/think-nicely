@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/cashc/think-nicely/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a site for nice thoughts that I want to share with the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit feugiat posuere. Etiam viverra accumsan ante, id fermentum velit ultricies eu. Duis mauris turpis, maximus quis dictum et, interdum a est. Sed mattis posuere arcu. Praesent sed turpis id tortor tincidunt aliquet sed eu erat. Morbi eu ipsum sit amet sapien pharetra fringilla. Nullam ultricies nisl ac pulvinar malesuada. Vestibulum ultricies porttitor consectetur. Vestibulum orci magna, pellentesque id tellus sit amet, cursus imperdiet sem. In laoreet sapien ut eros porttitor sodales. Cras lectus libero, ornare non enim eget, malesuada rhoncus ex. Quisque vitae consequat ex. Nulla diam elit, venenatis gravida nisl sed, rutrum efficitur nisi. Nullam ac interdum elit, ac porttitor sapien. Morbi ut orci sem. Ut nec ornare nisi.
 
-### Markdown
+Donec vitae tortor risus. Pellentesque consectetur hendrerit nisl, quis ornare diam faucibus eu. Sed fermentum odio id congue mollis. Fusce vestibulum consectetur aliquam. Mauris dictum sed neque eget commodo. Cras tincidunt mattis leo non euismod. Maecenas vel tempus ipsum.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cashc/think-nicely/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Integer facilisis quis nunc porta rutrum. Integer non enim ultricies, ornare quam in, volutpat purus. Integer vestibulum neque vitae imperdiet faucibus. Curabitur lobortis arcu sit amet metus semper ultricies. Mauris justo neque, elementum vel porttitor sit amet, pulvinar ac erat. Aliquam id mattis libero. Aenean enim dolor, gravida sed bibendum et, dictum vel libero. Suspendisse sit amet quam ac ipsum facilisis feugiat at sit amet purus. Mauris luctus, massa sit amet cursus tristique, elit leo efficitur nisl, quis efficitur enim elit sed orci. Sed dapibus commodo suscipit. Sed rhoncus elementum libero, vel tristique arcu lacinia in. Aenean malesuada, felis sit amet luctus ullamcorper, lectus tellus varius magna, a rhoncus orci nibh fermentum risus. Ut elit neque, commodo eu libero non, tempor congue nisi. Aliquam vel neque eu tellus molestie tristique sit amet id lectus.
