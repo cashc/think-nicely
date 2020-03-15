@@ -24,6 +24,8 @@ instagram_username: cash_hola
 # - username: jekyll2
 #   instance: example.com
 
+disqus:
+  shortname: think-nicely
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
