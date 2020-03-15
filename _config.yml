@@ -1,12 +1,11 @@
-title: Think Nicely
-author: cashc
-email: cash@cashc.me
-description: > # this means to ignore newlines until "twitter_username:"
-  A personal blog.
+title: Home
+# author: Cash Compton
+# email: cash@cashc.me
+description: A blog written with love.
 
 # social links
-twitter_username: CashCompton
-github_username: cashc
+# twitter_username: CashCompton
+# github_username: cashc
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: cash.money.compton
@@ -24,10 +23,12 @@ instagram_username: cash_hola
 # - username: jekyll2
 #   instance: example.com
 
+google_analytics: UA-160724040-1
+
 disqus:
   shortname: think-nicely
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -46,4 +47,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include:
-  - public/
+  - /public/
