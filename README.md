@@ -1,9 +1,3 @@
-## Welcome
+# Think Nicely
 
 This is a site for nice thoughts that I want to share with the world.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit feugiat posuere. Etiam viverra accumsan ante, id fermentum velit ultricies eu. Duis mauris turpis, maximus quis dictum et, interdum a est. Sed mattis posuere arcu. Praesent sed turpis id tortor tincidunt aliquet sed eu erat. Morbi eu ipsum sit amet sapien pharetra fringilla. Nullam ultricies nisl ac pulvinar malesuada. Vestibulum ultricies porttitor consectetur. Vestibulum orci magna, pellentesque id tellus sit amet, cursus imperdiet sem. In laoreet sapien ut eros porttitor sodales. Cras lectus libero, ornare non enim eget, malesuada rhoncus ex. Quisque vitae consequat ex. Nulla diam elit, venenatis gravida nisl sed, rutrum efficitur nisi. Nullam ac interdum elit, ac porttitor sapien. Morbi ut orci sem. Ut nec ornare nisi.
-
-Donec vitae tortor risus. Pellentesque consectetur hendrerit nisl, quis ornare diam faucibus eu. Sed fermentum odio id congue mollis. Fusce vestibulum consectetur aliquam. Mauris dictum sed neque eget commodo. Cras tincidunt mattis leo non euismod. Maecenas vel tempus ipsum.
-
-Integer facilisis quis nunc porta rutrum. Integer non enim ultricies, ornare quam in, volutpat purus. Integer vestibulum neque vitae imperdiet faucibus. Curabitur lobortis arcu sit amet metus semper ultricies. Mauris justo neque, elementum vel porttitor sit amet, pulvinar ac erat. Aliquam id mattis libero. Aenean enim dolor, gravida sed bibendum et, dictum vel libero. Suspendisse sit amet quam ac ipsum facilisis feugiat at sit amet purus. Mauris luctus, massa sit amet cursus tristique, elit leo efficitur nisl, quis efficitur enim elit sed orci. Sed dapibus commodo suscipit. Sed rhoncus elementum libero, vel tristique arcu lacinia in. Aenean malesuada, felis sit amet luctus ullamcorper, lectus tellus varius magna, a rhoncus orci nibh fermentum risus. Ut elit neque, commodo eu libero non, tempor congue nisi. Aliquam vel neque eu tellus molestie tristique sit amet id lectus.
