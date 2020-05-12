@@ -3,8 +3,6 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">ThinkNicely.com</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -14,10 +12,10 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
         </ul>
       </div>
 
