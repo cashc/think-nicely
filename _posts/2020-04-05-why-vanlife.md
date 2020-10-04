@@ -9,8 +9,7 @@ excerpt: "After owning my van for over a year, I go over some of my favorite par
 
 <img src="/public/van-pano.jpeg" />
 
-
-I love my van so much. When I look around, I'm reminded of all the obstacles I overcame while building it. Of all the amazing adventures I've been on with it. It's instilled in me a great sense of freedom and the feeling that anything is possible.
+I love my van so much. When I look around, I'm reminded of all the obstacles I overcame while building it. Of all the amazing adventures I've been on with it. It's instilled in me a great sense of freedom, created and strengthened many friendships, and taught me the value of living simply.
 
 I have so much freedom because I can go anywhere at a moments notice. I can be neighbors with a friend for a few days while I park in front of their house. I can go to a national forest where Quinn and I can do an off-leash trail run. Or I can park on a quiet street bordering the ocean and wake up to the sunrise on a beach that Quinn and I have to ourselves.
 
@@ -29,9 +28,9 @@ I have so much freedom because I can go anywhere at a moments notice. I can be n
   </div>
 </div>
 
-The possibilities are endless with van life. You're able to make your home wherever you want, for as long or as short as you want. This means I can relocate to an area that's conducive to whatever activity I'm drawn to at the moment. Be it trail running, surfing, farming, woodworking, etc. I can immerse myself in the activity. I'm only limited by my imagination because the barrier to following my heart is incredibly low.
+The possibilities are endless with van life. You're able to make your home wherever you want, for as long or as short as you want. This means I can relocate to an area that's conducive to whatever activity I'm drawn to at the moment. Be it running, surfing, farming, woodworking, etc. I can immerse myself in the activity. I'm only limited by my imagination because the barrier to following my heart is incredibly low.
 
-I'm a very independent person so I thrive under the responsibility of having to constantly decide where and when to go. I love being able to open Google Maps and see a huge national forest and just decide to check it out, going down random dirt roads until I come across some breathtaking scenery and call that home for a while.
+I'm a very independent person so I thrive under the responsibility of having to constantly decide where and when to go. I think this constant changing of environments has forced me to grow in a lot of different areas really fast. I feel like I've lived three years in the last one year! It's an extreme lifestyle, but I much prefer doing things to the extreme rather than being overly cautious.
 
 All of my main destinations have been stops to visit friends and family. Van life wouldn't be nearly as fun without my friends and family that I see along the way. I'm so blessed to have people to visit all over the country. Connecting with friends (old and new) is my favorite part of van life. It takes effort to meet up with folks, but it's so worth it. My friendships have been strengthened faster while doing vanlife. I think there are multiple reasons for this expedited bonding:
 
@@ -41,7 +40,7 @@ All of my main destinations have been stops to visit friends and family. Van lif
 
 The main thing that enables all of this freedom is minimalism or keeping things simple. Your home and transportation in one, and all of your possessions in this 70sq ft space. It's simple- I can look around and see all of my belongings. This makes it really easy to make conscious decisions about what I spend my time doing. I can see everything and I thought long and hard about the inclusion of each item so all of my options are clear to me.
 
-When I look around, I see my bicycle, running shoes, books, kitchen, hammock, etc. and I'm constantly reminded of all of the amazing things I can be doing. I cultivated the space to promote activities that I want to spend my time doing. For instance, I chose to include a bookshelf and not a tv because I find reading and journaling are better for my mental health.
+When I look around, I see my bicycle, books, kitchen, hammock, etc. and I'm constantly reminded of all of the amazing things I can be doing. I cultivated the space to promote activities that I want to spend my time doing. For instance, I chose to include a bookshelf and not a tv because I find reading and journaling are better for my mental health.
 
 <div class="body-small row" style="margin:20px 0;">
   <div class="col">
