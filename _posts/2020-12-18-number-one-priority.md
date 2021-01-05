@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Priorities"
+title: "Finding Your Purpose in Life"
 author: "Cash Compton"
 category: "blog"
-tags: "priorities priority  blog"
+tags: "priorities priority purpose life blog"
 excerpt: "Your number one priority should be your own happiness. Your second priority is your purpose in life."
 ---
 
@@ -16,7 +16,6 @@ Take off your shoes and feel the ground. Close your eyes and feel gravity pushin
 **Experience the beauty of our world.**
 
 There is so much beauty to experience. It makes my eyes water just thinking about (:
-
 There's no rush. Don't force anything. If you commit your entire life to simply being happy, I promise you will achieve more than in your wildest dreams. This is because you attract the best things in life when you're following your passions and what makes you happy.
 
 Every time you do it it gets easier. Every time you recognize when you're not totally happy and switch your focus back to something true to your priorities, you grow. It's the most important area in life to grow and it feels amazing. It's making progress towards your number one goal. I personally don't believe it's possible for us humans to achieve the goal and even if we did, would it be a catch-22? Because doesn't part of the amazing-ness of being happy and in the moment come from the pride and joy you feel for yourself for not being unhappy as you once were in the past? But that's a whole other conversation...
