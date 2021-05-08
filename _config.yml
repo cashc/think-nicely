@@ -48,3 +48,7 @@ exclude:
   - Gemfile.lock
 include:
   - /public/
+
+collections:
+  vanbuild:
+    output: true
