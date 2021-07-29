@@ -4,7 +4,7 @@ title: "What I Want To Do"
 author: "Cash Compton"
 category: "blog"
 tags: "goal mission priority purpose blog quitting quit job"
-excerpt: "The inner workings of my mind are on showcase here. After reading this you'll have a pretty good idea of the type of human I'm choosing to become in my time here on Earth."
+excerpt: "The inner workings of my mind are on showcase here. After reading this you'll have a pretty good idea of the type of human I'm choosing to be in my time here on Earth."
 ---
 
 I find comfort in knowing that I will die one day. It springs me into action because we only have a finite time here in this world. Over the last 18 months of so, I've thought long and hard about what I want to spend my precious time doing. And through that, I realized there are many things I currently do that I don't actually want to be doing. I'll try to explain the things I believe are worth my time, and by simple arithmetic, the things that will no longer fit into my life.

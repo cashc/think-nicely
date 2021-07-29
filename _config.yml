@@ -52,3 +52,5 @@ include:
 collections:
   vanbuild:
     output: true
+  poetry:
+    output: true
