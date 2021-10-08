@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: poetry
 title: Poetry
 description: I like to write poems.
 last_modified_at: 2021-05-07

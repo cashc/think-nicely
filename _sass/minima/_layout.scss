@@ -181,6 +181,11 @@
   flex: 1;
 }
 
+.poetry {
+  background: linear-gradient(to right, rgb(205, 207, 205), rgba(208, 212, 208, 0.3));
+  padding: 40px;
+}
+
 .page-heading {
   @include relative-font-size(2);
 }

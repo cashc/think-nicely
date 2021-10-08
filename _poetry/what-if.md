@@ -1,4 +1,4 @@
-# What If
+# What If  
 
 What if you smile as you walk by  
 It makes them feel loved  
@@ -12,12 +12,11 @@ You are more than you’ll ever know
 You know nothing  
 
 What if everything is a gift  
-Everything you experience has love at its core, in abundance  
 You are given infinitely, with nothing asked in return  
 When you show gratitude, you receive back tenfold  
 
-What if fear makes you want to do things  
-Insecurity, guilt, and shame are best friends  
+What if you were to do what you’re most afraid of  
+Insecurity, guilt, and shame are your greatest teachers  
 Everything you’ve ever done was leading to this  
 You are enough  
-You, are exactly the same as me  
+_You_ are exactly the same as me
