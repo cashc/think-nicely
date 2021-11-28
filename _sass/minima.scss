@@ -54,6 +54,11 @@ $on-laptop: 800px !default;
   flex-direction: column;
 }
 
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
 .body-small {
   font-size: 12px;
   color: $grey-color;
