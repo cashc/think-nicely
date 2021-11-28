@@ -1,7 +1,7 @@
 title: ""
 # author: Cash Compton
-# email: cash@cashc.me
-description: Some thoughts I think are nice
+email: cs.cmptn@gmail.com
+description: I'd love to hear from you! Please don't hesitate to contact me via email or Instagram DM.
 
 # social links
 # twitter_username: CashCompton
@@ -25,8 +25,8 @@ instagram_username: cash_hola
 
 google_analytics: UA-160724040-1
 
-disqus:
-  shortname: think-nicely
+# disqus:
+#   shortname: think-nicely
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
