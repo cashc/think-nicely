@@ -28,6 +28,10 @@ $content-width: 800px !default;
 $on-palm: 600px !default;
 $on-laptop: 800px !default;
 
+$poetry-paper: rgb(203, 200, 189);
+$poetry-paper-light: transparentize($poetry-paper, .3);
+$poetry-paper-dark: transparentize($poetry-paper, .8);
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
