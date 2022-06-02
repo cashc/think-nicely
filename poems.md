@@ -5,6 +5,9 @@ description: I like to write poems.
 last_modified_at: 2021-05-07
 ---
 
+{% include_relative _poetry/questions.md %}
+<hr style="margin: 100px 0;">
+
 {% include_relative _poetry/what-if.md %}
 <hr style="margin: 100px 0;">
 
