@@ -186,6 +186,12 @@
   padding: 40px;
 }
 
+.poem-break {
+  height: 120px;
+  margin: 40px -40px;
+  background: $background-color
+}
+
 .page-heading {
   @include relative-font-size(2);
 }
