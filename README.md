@@ -1,7 +1,7 @@
-Hello! Welcome to my personal blog. I hope that by reading my writing you feel a closer connection to me and are filled with love and passion.
+Hello! Welcome to my personal blog. I hope it brings you feelings of love, gratitude, and a deeper connection with me and all of nature.
 
 <div class="col body-small" style="margin:20px 0;">
   <img src="/public/hero.jpeg" />
 </div>
 
-About me: I have survived 28 winters, have a degree in Computer Science, and live in my self-converted camper van with my dog. I camp primarily on small farms where I volunteer and in return get to live sustainably, in community, surrounded by amazing people, plants, and animals. My goal is to create more harmony between humans and nature.
+About me: My goal is to create harmony between humans and nature. I have survived 28 winters, have a degree in Computer Science, and live in my self-converted camper van with my dog, Quinn. I camp primarily on small farms where I volunteer and in return get to live sustainably, in community, surrounded by amazing people, plants, and animals who teach me the most important lessons of life.
