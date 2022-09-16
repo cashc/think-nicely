@@ -1,3 +1,9 @@
+---
+layout: poem
+title: Questions worth asking
+tags: "questions"
+---
+
 # Questions worth asking
 
 What is life?  

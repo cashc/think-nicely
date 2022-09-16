@@ -1,4 +1,10 @@
-# Wisdom of nature
+---
+layout: poem
+title: Wisdom of Nature
+tags: "nature wisdom"
+---
+
+# Wisdom of Nature
 
 The asphalt is hard under my bare feet  
 I glide over it, jogging like a ballerina  
