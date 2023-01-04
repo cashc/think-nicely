@@ -1,4 +1,4 @@
-Hello! Welcome to my personal blog. I hope it brings you feelings of love, gratitude, and a deeper connection with me and all of nature.
+Hello! Welcome to my personal blog. I hope it brings you feelings of love, gratitude, and connection.
 
 <div class="col body-small" style="margin:20px 0;">
   <img src="/public/hero.jpeg" />
