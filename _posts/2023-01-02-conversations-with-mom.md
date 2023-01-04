@@ -64,7 +64,7 @@ Then, I gave my Mom a phone call to try to recover this straying attempt at conn
 
 _4:50pm Sheri: I love you. I always will. But it's really hard to be around someone when you feel like they're always trying to change you. I'm serious Cash you need to lighten up on me and other people who believe different than you._
 
-<div class="row">
+<div style="display:flex; align-items:center;">
   <i>4:52pm Cash: </i>
   <audio controls>
     <source src="/public/conversation-with-my-mom/mom-pro-life-text.mp3" type="audio/mpeg">
@@ -120,5 +120,4 @@ Resources:
 ... Next time, on _Conversations with my Mom_:  
 _Cash: "I'm going to live at an intentional community/farm and be mentored by the woman that designed the property! I'll learn how to butcher livestock, plant trees, and design and manage a garden and orchard!"_
 
-_Sheri: "Killing animals is not something I want you involved in, I don't want you around death!..."
-"You are wasting your potential spending time doing these things that are beneath you..."_
+_Sheri: "You are wasting your potential spending time doing these things that are beneath you...", "Killing animals is not something I want you involved in, I don't want you around death!..."_
